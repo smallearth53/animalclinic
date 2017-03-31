@@ -22,8 +22,13 @@
                 <nav class="collapse navbar-collapse navbar-right" role="navigation">
                     <div class="main-menu">
                         <ul class="nav navbar-nav navbar-right">
-                            <li>
+                            <li class="">
                                 <a href="{{url('/')}}" >Home</a>
+                                
+                            </li>
+                             <li class="">
+                                <a  >/</a>
+                                
                             </li>
                             <li><a href="{{url('/about')}}">Products</a></li>                     
                         
