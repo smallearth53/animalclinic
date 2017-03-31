@@ -16,7 +16,7 @@
 
         <link rel="stylesheet" href="{{asset('/css/app.css')}}">
 
-        <link rel="stylesheet" href="{{asset('css/custom.css?v9')}}">
+        <link rel="stylesheet" href="{{asset('css/custom.css')}}">
         <link rel="stylesheet" href="{{asset('css/animate.css')}}">
 <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
         <script>
