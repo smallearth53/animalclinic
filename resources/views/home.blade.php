@@ -53,14 +53,14 @@
                <div class="col-md-6">
                         <img src="https://ununsplash.imgix.net/photo-1417024321782-1375735f8987?q=75&fm=jpg&s=7af3f809a9c1b90b7fcbd71655b661bc"
                         class="img-quadrata center-block" >
-                        <h3 class="text-center" >Christine Janse Van Rensburg
+                        <h3 class="content-header text-center" >Christine Janse Van Rensburg
                         <br/>
                         <small>Veterinary Surgeon</small></h3>
                     </div>
                     <div class="col-md-6">
                         <img src="https://unsplash.imgix.net/reserve/fqUehZ3ZRru2Kh11qDBT_IMG_0042.jpg?q=75&fm=jpg&s=e96c5bfe57acbd6cdfdbe7d84f37656d"
                         class="center-block img-quadrata" >
-                        <h3 class="text-center" >Mienkie Van Der Westhuizen
+                        <h3 class="content-header text-center" >Mienkie Van Der Westhuizen
                         <br/>
                         <small>Veterinary Surgeon</small></h3>
                     </div>
